@@ -364,7 +364,7 @@ ghcr.io/<your-username>/<repo-name>:v1
 ```
 
 You can verify it under your GitHub profile → **Packages**.
-
+chnaging for test
 ---
 ### 🛠️ Step 5: Change Package to Public
 
